@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Siqi Sun (PhD)"
+  name             : "Siqi Sun"
   avatar           : "photo.png"
-  bio              : "Department of Computer Science, College of Engineering, Mathematics and Physical Sciences "
-  location         : "University of Exeter, UK"
+  bio              : "PhD, University of Exeter, Department of Computer Science, College of Engineering, Mathematics and Physical Sciences "
+  location         : "Exeter, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
